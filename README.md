@@ -6,7 +6,7 @@ This is my first hands-on electronics project using the Arduino UNO board and Ar
 
 The built-in LED turns ON for one second and OFF for one second continuously. This project helped me understand the fundamentals of Arduino programming, digital output control, and time delays.
 
-## 🎯 Objectives
+## 🎯 Objectives.
 
 * Learn the basics of the Arduino UNO board.
 * Understand digital output pins.
