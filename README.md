@@ -49,6 +49,7 @@ void loop() {
 }
 ```
 
+
 ## 🚀 How to Run the Project
 
 1. Install Arduino IDE on your computer.
