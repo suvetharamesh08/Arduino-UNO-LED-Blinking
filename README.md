@@ -66,7 +66,9 @@ void loop() {
 
 The image below shows the output of my Arduino UNO LED blinking project.
 
-![Arduino UNO LED Blinking Output](./LED%20BUILTIN.jpeg)
+<p align="center">
+  <img src="./LED%20BUILTIN.jpeg" alt="Arduino UNO LED Blinking Output" width="400">
+</p>
 
 ## 📚 What I Learned
 
