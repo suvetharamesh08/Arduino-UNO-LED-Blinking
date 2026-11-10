@@ -32,23 +32,9 @@ The built-in LED turns ON for one second and OFF for one second continuously. Th
 3. The LED turns OFF for one second.
 4. The process repeats continuously.
 
-##  Source Code
+## 💻 Arduino Code
 
-The following Arduino code controls the built-in LED on the Arduino UNO.
-
-```cpp
-void setup() {
-  pinMode(LED_BUILTIN, OUTPUT);
-}
-
-void loop() {
-  digitalWrite(LED_BUILTIN, HIGH);
-  delay(1000);
-
-  digitalWrite(LED_BUILTIN, LOW);
-  delay(1000);
-}
-```
+[View Arduino Code](./LED_Blinking.ino)
 
 ##  How to Run the Project
 
