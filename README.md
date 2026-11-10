@@ -1,12 +1,12 @@
-# 💡 Arduino UNO LED Blinking
+#  Arduino UNO LED Blinking
 
-## 📌 About the Project
+##  About the Project
 
 This is my first hands-on electronics project using the Arduino UNO board and Arduino IDE. The project demonstrates how to control an LED using basic C++ programming.
 
 The built-in LED turns ON for one second and OFF for one second continuously. This project helped me understand the fundamentals of Arduino programming, digital output control, and time delays.
 
-## 🎯 Objectives.
+##  Objectives.
 
 * Learn the basics of the Arduino UNO board.
 * Understand digital output pins.
@@ -14,25 +14,25 @@ The built-in LED turns ON for one second and OFF for one second continuously. Th
 * Learn basic C++ programming for embedded systems.
 * Gain hands-on experience with microcontroller programming.
 
-## 🛠️ Hardware Requirements
+##  Hardware Requirements
 
 * Arduino UNO
 * USB Cable
 * Computer or Laptop
 
-## 💻 Software Requirements
+##  Software Requirements
 
 * Arduino IDE
 * C++ Programming Language
 
-## ⚙️ Working Principle
+##  Working Principle
 
 1. The Arduino UNO configures the built-in LED pin as an output.
 2. The LED turns ON for one second.
 3. The LED turns OFF for one second.
 4. The process repeats continuously.
 
-## 🧑‍💻 Source Code
+##  Source Code
 
 The following Arduino code controls the built-in LED on the Arduino UNO.
 
@@ -50,7 +50,7 @@ void loop() {
 }
 ```
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Install Arduino IDE on your computer.
 2. Connect the Arduino UNO to your computer using a USB cable.
@@ -62,7 +62,7 @@ void loop() {
 8. Click **Upload** to upload the code to the Arduino UNO.
 9. Observe the built-in LED blinking every second.
 
-## 📸 Project Output
+## Project Output
 
 The image below shows the output of my Arduino UNO LED blinking project.
 
@@ -70,7 +70,7 @@ The image below shows the output of my Arduino UNO LED blinking project.
   <img src="./LED%20BUILTIN.jpeg" alt="Arduino UNO LED Blinking Output" width="400">
 </p>
 
-## 📚 What I Learned
+##  What I Learned
 
 * Basics of the Arduino UNO microcontroller board.
 * Writing and uploading code using Arduino IDE.
@@ -79,7 +79,7 @@ The image below shows the output of my Arduino UNO LED blinking project.
 * Using `delay()` to control timing.
 * Fundamentals of embedded systems programming.
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Connect an external LED using a breadboard.
 * Experiment with different LED blinking speeds.
@@ -87,7 +87,7 @@ The image below shows the output of my Arduino UNO LED blinking project.
 * Interface sensors with Arduino UNO.
 * Develop more electronics and embedded systems projects.
 
-## 🌱 My Learning Journey
+##  My Learning Journey
 
 This is my first step into electronics, embedded systems, and microcontroller programming. I look forward to building more projects and improving my technical skills.
 
