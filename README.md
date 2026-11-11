@@ -77,11 +77,7 @@ The image below shows the output of my Arduino UNO LED blinking project.
 
 This is my first step into electronics, embedded systems, and microcontroller programming. I look forward to building more projects and improving my technical skills.
 
-**Small beginnings, exciting innovations! 🚀**
-
----
-
-**Board:** Arduino UNO
+no UNO
 **Software:** Arduino IDE
 **Programming Language:** C++
 **Project Type:** Beginner Electronics Project
